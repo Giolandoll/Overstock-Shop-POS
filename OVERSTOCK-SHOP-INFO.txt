@@ -1,0 +1,4 @@
+ GraceMilk 200 188
+ Rice 90 258
+ Mackerel 350 50
+ Johncrow 200 60
